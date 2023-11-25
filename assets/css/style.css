@@ -678,7 +678,7 @@ main.drake-main {
     border-radius: 30px;
     display: block;
     margin-bottom: 56px;
-    margin-right: 25px;
+    margin-right: auto;
 }
 .left-sidebar .sidebar-header {
     margin-bottom: 65px;
