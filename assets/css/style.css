@@ -1358,8 +1358,16 @@ body .body-overlay {
     margin-bottom: 0;
     margin-top: 18px;
 }
+ .upload-attachment :hover{
+    color: #999999;
+    display: inline-block;
+    transition: .3s;
+    text-decoration: none;
+ }
 
-
+ .upload-attachment {
+    color: #fff;
+ }
 
 /* 19 - Breadcrumb */
 .breadcrumb-area {
